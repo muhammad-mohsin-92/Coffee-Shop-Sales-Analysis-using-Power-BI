@@ -1,1 +1,1 @@
-# Coffee-Shop-Sales-Analysis-using-Power-BI
+# Coffee Shop Sales Analysis using Power BI
